@@ -1,0 +1,9 @@
+name: MedievalWeapons
+version: 1.0
+main: it.xoxryze.medievalweapons.MedievalWeapons
+api-version: 1.19
+authors: [RyZeeTheBest, RyzeProjects]
+
+commands:
+  medievalweapons:
+    aliases: [mw]

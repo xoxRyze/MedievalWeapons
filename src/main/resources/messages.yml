@@ -1,0 +1,28 @@
+#
+# ███╗░░░███╗███████╗██████╗░██╗███████╗██╗░░░██╗░█████╗░██╗░░░░░░██╗░░░░░░░██╗███████╗░█████╗░██████╗░░█████╗░███╗░░██╗░██████╗
+# ████╗░████║██╔════╝██╔══██╗██║██╔════╝██║░░░██║██╔══██╗██║░░░░░░██║░░██╗░░██║██╔════╝██╔══██╗██╔══██╗██╔══██╗████╗░██║██╔════╝
+# ██╔████╔██║█████╗░░██║░░██║██║█████╗░░╚██╗░██╔╝███████║██║░░░░░░╚██╗████╗██╔╝█████╗░░███████║██████╔╝██║░░██║██╔██╗██║╚█████╗░
+# █║╚██╔╝██║██╔══╝░░██║░░██║██║██╔══╝░░░╚████╔╝░██╔══██║██║░░░░░░░████╔═████║░██╔══╝░░██╔══██║██╔═══╝░██║░░██║██║╚████║░╚═══██╗
+# ██║░╚═╝░██║███████╗██████╔╝██║███████╗░░╚██╔╝░░██║░░██║███████╗░░╚██╔╝░╚██╔╝░███████╗██║░░██║██║░░░░░╚█████╔╝██║░╚███║██████╔╝
+# ╚═╝░░░░░╚═╝╚══════╝╚═════╝░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░░╚════╝░╚═╝░░╚══╝╚═════╝░
+#
+# DEV By @RyzeProjects
+# Version 1.0
+# For suggestion or if you run into a problem, please contact me on Telegram @xoxRyze!
+#
+# This is the messages.yml
+
+weapon-received: "§x§8§4§C§C§1§7Hai ricevuto l'arma §a'{0}§a'§x§8§4§C§C§1§7!"
+shield-received: "§x§8§4§C§C§1§7Hai ricevuto lo scudo §a'{0}§a'§x§8§4§C§C§1§7!"
+bow-received: "§x§8§4§C§C§1§7Hai ricevuto l'arco §a'{0}§a'§x§8§4§C§C§1§7!"
+weapon-given: "§x§8§4§C§C§1§7Hai dato l'arma §a'{0}§a'§x§8§4§C§C§1§7 al player §e{1}§x§8§4§C§C§1§7!"
+shield-given: "§x§8§4§C§C§1§7Hai dato lo scudo §a'{0}§a'§x§8§4§C§C§1§7 al player §e{1}§x§8§4§C§C§1§7!"
+bow-given: "§x§8§4§C§C§1§7Hai dato l'arco §a'{0}§a'§x§8§4§C§C§1§7 al player §e{1}§x§8§4§C§C§1§7!"
+weapon-not-found: "§x§F§F§3§3§0§0L'oggetto §c'{0}'§x§F§F§3§3§0§0 non è stato trovato!"
+player-not-found: "§x§F§F§3§3§0§0Il player §c{0}§x§F§F§3§3§0§0 non è stato trovato!"
+no-weapons-found: "§x§F§F§3§3§0§0Non è stato trovato nessun oggetto nel weapons.yml!"
+weapon-list-header: "§x§F§6§9§F§1§8§lᴍ§x§F§4§9§6§1§8§lᴇ§x§F§2§8§E§1§8§lᴅ§x§F§0§8§5§1§8§lɪ§x§E§E§7§D§1§8§lᴇ§x§E§B§7§4§1§8§lᴠ§x§E§9§6§B§1§8§lᴀ§x§E§7§6§3§1§8§lʟ §x§E§7§6§4§1§8§lᴡ§x§E§A§6§E§1§8§lᴇ§x§E§C§7§8§1§8§lᴀ§x§E§F§8§1§1§8§lᴘ§x§F§1§8§B§1§8§lᴏ§x§F§4§9§5§1§8§lɴ§x§F§6§9§F§1§8§lѕ §x§F§6§9§F§1§8(Pagina {0}/{1}):"
+all-weapons-list: "§x§F§6§9§F§1§8§lᴍ§x§F§4§9§6§1§8§lᴇ§x§F§2§8§E§1§8§lᴅ§x§F§0§8§5§1§8§lɪ§x§E§E§7§D§1§8§lᴇ§x§E§B§7§4§1§8§lᴠ§x§E§9§6§B§1§8§lᴀ§x§E§7§6§3§1§8§lʟ §x§E§7§6§4§1§8§lᴡ§x§E§A§6§E§1§8§lᴇ§x§E§C§7§8§1§8§lᴀ§x§E§F§8§1§1§8§lᴘ§x§F§1§8§B§1§8§lᴏ§x§F§4§9§5§1§8§lɴ§x§F§6§9§F§1§8§lѕ §x§F§6§9§F§1§8(ALL):"
+next-page-hint: "&7Digita /mw list {0} per vedere la prossima pagina"
+invalid-page-number: "§x§F§F§3§3§0§0Numero di pagina non valido!"
+config-reloaded: "§x§8§4§C§C§1§7Configurazioni ricaricate, tipologia: {0}"

@@ -1,0 +1,150 @@
+#
+# ███╗░░░███╗███████╗██████╗░██╗███████╗██╗░░░██╗░█████╗░██╗░░░░░░██╗░░░░░░░██╗███████╗░█████╗░██████╗░░█████╗░███╗░░██╗░██████╗
+# ████╗░████║██╔════╝██╔══██╗██║██╔════╝██║░░░██║██╔══██╗██║░░░░░░██║░░██╗░░██║██╔════╝██╔══██╗██╔══██╗██╔══██╗████╗░██║██╔════╝
+# ██╔████╔██║█████╗░░██║░░██║██║█████╗░░╚██╗░██╔╝███████║██║░░░░░░╚██╗████╗██╔╝█████╗░░███████║██████╔╝██║░░██║██╔██╗██║╚█████╗░
+# █║╚██╔╝██║██╔══╝░░██║░░██║██║██╔══╝░░░╚████╔╝░██╔══██║██║░░░░░░░████╔═████║░██╔══╝░░██╔══██║██╔═══╝░██║░░██║██║╚████║░╚═══██╗
+# ██║░╚═╝░██║███████╗██████╔╝██║███████╗░░╚██╔╝░░██║░░██║███████╗░░╚██╔╝░╚██╔╝░███████╗██║░░██║██║░░░░░╚█████╔╝██║░╚███║██████╔╝
+# ╚═╝░░░░░╚═╝╚══════╝╚═════╝░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░░╚════╝░╚═╝░░╚══╝╚═════╝░
+#
+# DEV By @RyzeProjects
+# Version 1.0
+# For suggestion or if you run into a problem, please contact me on Telegram @xoxRyze!
+# This is the weapons.yml
+#
+
+weapons:
+  spada_iron:
+    name: "§6§lѕᴘᴀᴅᴀ ᴅɪ ꜰᴇʀʀᴏ"
+    material: "IRON_SWORD"
+    custom-model-data: 1
+    damage: 3.0
+    cooldown: 5
+    max-uses: 50 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴅᴀɴɴᴏ: §f3.0"
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f5.0s"
+
+  spada_diamond:
+    name: "§6§lѕᴘᴀᴅᴀ ᴅɪ ᴅɪᴀᴍᴀɴᴛᴇ"
+    material: "IRON_SWORD"
+    custom-model-data: 2
+    damage: 5.0
+    cooldown: 4
+    max-uses: 60 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴅᴀɴɴᴏ: §f5.0"
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f4.0s"
+
+  spada_giustizia:
+    name: "§6§lѕᴘᴀᴅᴀ ᴅᴇʟʟᴀ ɢɪᴜѕᴛɪᴢɪᴀ"
+    material: "IRON_SWORD"
+    custom-model-data: 3
+    damage: 4.0
+    cooldown: 4.25
+    max-uses: 100 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴅᴀɴɴᴏ: §f4.5"
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f4.25s"
+
+  ascia_iron:
+    name: "§x§F§6§9§F§1§8§lᴀѕᴄɪᴀ ᴅɪ ꜰᴇʀʀᴏ"
+    material: "IRON_AXE"
+    custom-model-data: 1
+    damage: 6.0
+    cooldown: 6.0
+    max-uses: 40 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴅᴀɴɴᴏ: §f6.6"
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f6.0s"
+
+  ascia_diamond:
+    name: "§x§F§6§9§F§1§8§lᴀѕᴄɪᴀ ᴅɪ ᴅɪᴀᴍᴀɴᴛᴇ"
+    material: "IRON_AXE"
+    custom-model-data: 2
+    damage: 8.0
+    cooldown: 6.0
+    max-uses: 50 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴅᴀɴɴᴏ: §f8.0"
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f6.0s"
+
+  ascia_giustizia:
+    name: "§x§F§6§9§F§1§8§lᴀѕᴄɪᴀ ᴅɪ ᴅɪᴀᴍᴀɴᴛᴇ"
+    material: "IRON_AXE"
+    custom-model-data: 3
+    damage: 7.5
+    cooldown: 6.5
+    max-uses: 80 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴅᴀɴɴᴏ: §f7.5"
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f6.5s"
+
+bows:
+  arco_base:
+    name: "§bArco Base"
+    custom-model-data: 1
+    arrow-damage: 5.0
+    cooldown: 1.5
+    max-uses: 100 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴅᴀɴɴᴏ: §f5.0"
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f1.5s"
+
+  arco_potente:
+    name: "§3Arco Plus"
+    custom-model-data: 2
+    arrow-damage: 8.0
+    cooldown: 2.0
+    max-uses: 75
+    lore:
+      - "§8• §eᴅᴀɴɴᴏ: §f8.0"
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f2.0s"
+
+shields:
+  scudo_ovale:
+    name: "§x§E§A§B§5§6§3§lѕᴄᴜᴅᴏ ᴏᴠᴀʟᴇ"
+    custom-model-data: 1
+    cooldown: 2.0
+    max-uses: 150 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f2.0s"
+
+  scudo_rotondo:
+    name: "§x§E§A§B§5§6§3§lѕᴄᴜᴅᴏ ʀᴏᴛᴏɴᴅᴏ"
+    custom-model-data: 2
+    cooldown: 1.0
+    max-uses: 175 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f1.0s"
+
+  scudo_kite:
+    name: "§x§E§A§B§5§6§3§lѕᴄᴜᴅᴏ ᴋɪᴛᴇ"
+    custom-model-data: 3
+    cooldown: 0.75
+    max-uses: 200 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f0.75s"
+
+  scudo_ovale_giustizia:
+    name: "§x§E§A§B§5§6§3§lѕᴄᴜᴅᴏ ᴏᴠᴀʟᴇ ɢɪᴜѕᴛɪᴢɪᴀ"
+    custom-model-data: 4
+    cooldown: 2.25
+    max-uses: 180 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f2.25s"
+
+  scudo_rotondo_giustizia:
+    name: "§x§E§A§B§5§6§3§lѕᴄᴜᴅᴏ ʀᴏᴛᴏɴᴅᴏ ɢɪᴜѕᴛɪᴢɪᴀ"
+    custom-model-data: 5
+    cooldown: 1.25
+    max-uses: 215 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f1.25s"
+
+  scudo_kite_giustizia:
+    name: "§x§E§A§B§5§6§3§lѕᴄᴜᴅᴏ ʀᴏᴛᴏɴᴅᴏ ɢɪᴜѕᴛɪᴢɪᴀ"
+    custom-model-data: 6
+    cooldown: 0.75
+    max-uses: 250 # Utilizza -1 per avere utilizzi infiniti
+    lore:
+      - "§8• §eᴄᴏᴏʟᴅᴏᴡɴ: §f0.75s"

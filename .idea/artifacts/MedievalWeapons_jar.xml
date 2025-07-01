@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MedievalWeapons:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MedievalWeapons_jar</output-path>
+    <root id="archive" name="MedievalWeapons.jar">
+      <element id="module-output" name="MedievalWeapons" />
+    </root>
+  </artifact>
+</component>
